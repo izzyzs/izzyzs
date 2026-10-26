@@ -1,5 +1,3 @@
-# Hey there! 
-
 # Hey there!
 
 I'm Ismael, a software engineer focused on developing my skills in systems programming, computer networking, and backend development.
